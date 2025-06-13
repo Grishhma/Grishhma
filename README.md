@@ -47,7 +47,7 @@
       width="40" height="40"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:grishmakarkera2525@gmail.com">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
