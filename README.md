@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>MSIS Grad Student @ Northeastern University | Full-Stack Software Engineer | 
-  Ex-Front-End Intern @ Dassault Systèmes | Associate Software Engineer @ TCS | Python, JavaScript, Node.js, React.js | </strong> 
+  Ex-Front-End Intern @ Dassault Systèmes | Associate Software Engineer @ TCS | Python | JavaScript | Node.js| React.js | Go | React | </strong> 
 </p><br>
 
 
